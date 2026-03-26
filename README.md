@@ -42,7 +42,7 @@ Without HTML, there's no content. Without CSS, everything looks plain and ugly. 
 
 3•	Every HTML file starts with `<!DOCTYPE html>` to tell the browser what kind of file it is.
 
-4•	A<div>is a container that helps you group and style sections of a page
+4•	A `<div>` is a container that helps you group and style sections of a page
 
 5•	I learned that changing small things like colours and text instantly updates what I see in the browser
 
@@ -82,6 +82,7 @@ This below is my personal profile webpage I built during this project using HTML
 
 Below is the code in the Notepad saved as index.html.
 
+```
 <!DOCTYPE html>
 <html>
 
@@ -155,7 +156,7 @@ Below is the code in the Notepad saved as index.html.
   </body>
 
 </html>
-
+```
  
 
 ## Section 6: AI Prompt Journal
@@ -164,7 +165,7 @@ Prompt I Used	What I Learned
 
 "Explain what HTML and CSS are using a simple analogy"	HTML is like the structure of a house; CSS is the decoration
 
-"Teach me the 10 most important HTML tags"	Tags like <p>, <h1>, <ul> are the building blocks of content
+"Teach me the 10 most important HTML tags"	Tags like `<p>`, `<h1>`, `<ul>` are the building blocks of content
 
 "Help me build a personal profile webpage step by step"	How to combine HTML structure with CSS styling in one file
 
@@ -172,11 +173,11 @@ Prompt I Used	What I Learned
 
 These are mistakes I made or things that confused me:
 
-•	❌ Forgetting to close a tag — e.g. writing <h1>Hello without </h1> breaks the layout. Always close your tags!
+•	❌ Forgetting to close a tag — e.g. writing <h1>Hello without `</h1>` breaks the layout. Always close your tags!
 
 •	❌ Saving as .txt instead of .html — the file won't open as a webpage. Always check the file extension when saving
 
-•	❌ CSS not working — I forgot to put CSS inside <style> tags. The code must be in the right place
+•	❌ CSS not working — I forgot to put CSS inside `<style>` tags. The code must be in the right place
 
 •	✅ Fix: When something looks wrong, I pasted my code into Claude and asked "what is wrong with this code?" — it always explained the problem clearly
 

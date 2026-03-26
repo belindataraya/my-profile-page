@@ -36,13 +36,13 @@ Without HTML, there's no content. Without CSS, everything looks plain and ugly. 
 
 ## Section 2: Quick Summary
 
-1•	HTML uses tags like <h1>, <p>, and <ul> to structure content on a page.
+1•	HTML uses tags like<h1>,<p>,and<ul>to structure content on a page.
 
-2•	CSS is writ.ten inside <style> tags and uses properties like color, font-size and padding.
+2•	CSS is writ.ten inside<style>tags and uses properties like color, font-size and padding.
 
-3•	Every HTML file starts with <!DOCTYPE html> to tell the browser what kind of file it is.
+3•	Every HTML file starts with<!DOCTYPE html>to tell the browser what kind of file it is.
 
-4•	A <div> is a container that helps you group and style sections of a page
+4•	A<div>is a container that helps you group and style sections of a page
 
 5•	I learned that changing small things like colours and text instantly updates what I see in the browser
 

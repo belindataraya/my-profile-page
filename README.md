@@ -27,10 +27,12 @@ Prompt 3 — Learn CSS basics:
 Think of building a house 🏠:
 •	HTML is the structure — the walls, roof, doors, and windows
 •	CSS is the decoration — the paint, curtains, and furniture
-HTML stands for HyperText Markup Language. It tells the browser what to show on a page — headings, paragraphs, images, buttons, links, etc.
-CSS stands for Cascading Style Sheets. It tells the browser how things should look — colours, sizes, fonts, spacing, etc.
-Without HTML, there's no content. Without CSS, everything looks plain and ugly. Together, they make every website you've ever visited.
 
+HTML stands for HyperText Markup Language. It tells the browser what to show on a page — headings, paragraphs, images, buttons, links, etc.
+
+CSS stands for Cascading Style Sheets. It tells the browser how things should look — colours, sizes, fonts, spacing, etc.
+
+Without HTML, there's no content. Without CSS, everything looks plain and ugly. Together, they make every website you've ever visited.
 
 ## Section 2: Quick Summary
 

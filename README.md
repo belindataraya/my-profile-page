@@ -53,11 +53,11 @@ ________________________________________
 
 To use HTML and CSS you need:
 
-•	✅ A computer (Windows, Mac or Linux)
-•	✅ A text editor (Notepad on Windows)
-•	✅ A web browser (Chrome, Firefox or Edge)
-•	✅ No internet connection required to build and test locally
-•	✅ No installation or setup needed — HTML and CSS work out of the box!
+1•	✅ A computer (Windows, Mac or Linux)
+2•	✅ A text editor (Notepad on Windows)
+3•	✅ A web browser (Chrome, Firefox or Edge)
+4•	✅ No internet connection required to build and test locally
+5•	✅ No installation or setup needed — HTML and CSS work out of the box!
 
 ### Step 2: Build Something with AI
 
@@ -173,7 +173,7 @@ Prompt I Used	What I Learned
 
 These are mistakes I made or things that confused me:
 
-•	❌ Forgetting to close a tag — e.g. writing <h1>Hello without `</h1>` breaks the layout. Always close your tags!
+•	❌ Forgetting to close a tag — e.g. writing `<h1>`Hello without `</h1>` breaks the layout. Always close your tags!
 
 •	❌ Saving as .txt instead of .html — the file won't open as a webpage. Always check the file extension when saving
 
